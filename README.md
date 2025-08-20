@@ -2,9 +2,9 @@
 
 ###
 
-## 🚀 Skills
+## Skills
 
-### 🎨 Frontend
+### Frontend
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
   <img width="12" />
@@ -27,7 +27,7 @@
 
 ---
 
-### ⚙️ Backend
+###  Backend
 <div align="center">
   <img src="https://cdn.simpleicons.org/express/000000" height="60" alt="express logo" />
   <img width="12" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📱 App Development
+###  App Development
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo" />
   <img width="12" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 🗄️ Database & Storage
+###  Database & Storage
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
   <img width="12" />
@@ -66,7 +66,7 @@
 
 ---
 
-### 💻 Programming Languages
+###  Programming Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
   <img width="12" />
@@ -81,7 +81,7 @@
 
 ---
 
-### ☁️ DevOps & Tools
+###  DevOps & Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="aws logo" />
   <img width="12" />
@@ -100,7 +100,7 @@
 
 ---
 
-### 🎨 UI/UX & Styling
+###  UI/UX & Styling
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" />
   <img width="12" />
@@ -111,7 +111,7 @@
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
@@ -121,7 +121,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TANICE-GAWD&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TANICE-GAWD&layout=compact&theme=dracula" height="150" alt="languages graph" />
