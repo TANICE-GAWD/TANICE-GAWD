@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
 </div>
 
 ---
