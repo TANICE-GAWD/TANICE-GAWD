@@ -14,8 +14,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" widht="12" alt="tailwindcss logo" />
+<!-- Material UI -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" />
+
+<!-- Tailwind CSS (adjusted) -->
+<img src="https://skillicons.dev/icons?i=tailwind" height="60" style="margin-left: 10px;" />
+
 </div>
 
 ---
