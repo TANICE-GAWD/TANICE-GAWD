@@ -103,9 +103,9 @@
 ## GitHub Stats
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=TANICE-GAWD&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TANICE-GAWD&layout=compact&theme=dracula" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com/?user=TANICE-GAWD&theme=dracula" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TANICE-GAWD&theme=dracula&area=true" height="300" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TANICE-GAWD&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TANICE-GAWD&theme=tokyonight" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TANICE-GAWD&theme=elegant&area=true" height="300" alt="activity graph" />
 </div> 
 
 ###
