@@ -49,7 +49,7 @@
 ## What I've done
 - Scaled a product to 8,000+ users, ~$14K processed
 - Built AI tooling at DevSwarm, USA
-- Built a Go finance simulator handling 1.5M+ credits
+- Built a 3D Go finance simulator based on the model of solar system handling 1500+ concurrent 3D transfers.
 - Shipped a 3D/AR game to 2,000 concurrent users on Kubernetes
 - Freelance apps for PhD institutes and real-estate sites
 - Done GTM work at early-stage startups (drove $47K ARR)
