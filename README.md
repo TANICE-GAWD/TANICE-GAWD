@@ -1,8 +1,7 @@
 <h1 align="center">Hey, I'm Prince Sharma</h1>
 
-<p align="center">CSE @ Thapar Institute · Full-stack & distributed systems · <a href="https://tanice.me">tanice.me</a></p>
 
-###
+
 
 ## Skills
 
@@ -32,10 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase" />
+  <img src="https://cdn.simpleicons.org/convex/EE342F" height="50" alt="convex" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/temporal/FFFFFF" />
+      <img src="https://cdn.simpleicons.org/temporal/000000" height="50" alt="temporal" />
+  </picture>
+  
 </div>
 
 **Design**
@@ -47,9 +51,9 @@
 ###
 
 ## What I've done
-- Scaled a product to 8,000+ users, ~$14K processed
+- Working as an Ai Engineer @ Fidaris Ai, USA
 - Built AI tooling at DevSwarm, USA
-- Built a 3D Go finance simulator based on the model of solar system handling 1500+ concurrent 3D transfers.
+- Scaled a product to 10,000+ users, ~$14K processed
 - Shipped a 3D/AR game to 2,000 concurrent users on Kubernetes
 - Freelance apps for PhD institutes and real-estate sites
 - Done GTM work at early-stage startups (drove $47K ARR)
