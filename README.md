@@ -53,7 +53,7 @@
 ## What I've done
 - Working as an Ai Engineer @ Fidaris Ai, USA
 - Built AI tooling at DevSwarm, USA
-- Scaled a product to 10,000+ users, ~$14K processed
+- Scaled a product to 10,000+ users
 - Shipped a 3D/AR game to 2,000 concurrent users on Kubernetes
 - Freelance apps for PhD institutes and real-estate sites
 - Done GTM work at early-stage startups (drove $47K ARR)
